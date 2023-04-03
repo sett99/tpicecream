@@ -3,7 +3,6 @@ import PriceList from "./components/PriceList"
 import Footer from "./components/Footer";
 
 export default function App() {
-  
 
   return (
     <>
